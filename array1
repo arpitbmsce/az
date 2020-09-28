@@ -55,3 +55,4 @@ function longestContigousSubsequence(input) {
   
 }
 console.log(longestContigousSubsequence(array2)) // outputs 4 - length of longest continous sequence (1,2,3,4)
+
